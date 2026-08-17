@@ -8,12 +8,7 @@ HackingToolkit3DS.
 📥 **[Télécharger la dernière version](../../releases/latest)** · 💬 **[Serveur
 Discord](https://discord.gg/m85VtHVQAg)** · 🐛 **[Signaler un bug](../../issues)**
 
-<!-- Quand tu auras des captures d'écran, dépose-les dans un dossier
-     « images » et décommente les trois lignes ci-dessous.
-![L'onglet des Pokémon sauvages](images/sauvages.png)
-![Le réglage des chromatiques](images/chromatiques.png)
-![Le carnet Nuzlocke](images/nuzlocke.png)
--->
+![L'onglet des Pokémon sauvages, avec une ROM de Rubis Oméga chargée](images/sauvages.png)
 
 ## Jeux pris en charge
 
@@ -37,6 +32,14 @@ Discord](https://discord.gg/m85VtHVQAg)** · 🐛 **[Signaler un bug](../../issu
 - **Seed reproductible** : même seed et mêmes options = exactement la même ROM,
   donc une partie se partage en un nombre
 - **Styles de partie** enregistrables et échangeables (simples fichiers texte)
+
+Le taux de chromatiques, avec le seuil réellement appliqué dans le code du jeu :
+
+![Le réglage du taux de chromatiques](images/chromatiques.png)
+
+Le carnet Nuzlocke, avec les zones réelles du jeu chargé et les huit règles :
+
+![Le carnet Nuzlocke](images/nuzlocke.png)
 
 ## Comment ça marche
 
