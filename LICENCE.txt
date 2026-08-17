@@ -1,0 +1,91 @@
+LICENCE D'UTILISATION — em7 ROM editor
+Version du 17 août 2026
+
+Ce logiciel est protégé par le droit d'auteur. Il n'est pas open source.
+En l'installant ou en l'utilisant, vous acceptez les conditions ci-dessous.
+
+
+1. PROPRIÉTÉ
+
+Le logiciel « em7 ROM editor », son code, son interface et sa documentation
+restent la propriété de leur auteur. Aucun droit n'est cédé au-delà de ce qui
+est écrit ici.
+
+
+2. CE QUE VOUS POUVEZ FAIRE
+
+Utiliser le logiciel gratuitement, sans limite de durée, pour votre usage
+personnel, sur autant de vos ordinateurs que vous voulez.
+
+En parler, le montrer, le filmer, l'utiliser dans une vidéo ou un direct, y
+compris monétisés. Aucune autorisation n'est nécessaire.
+
+Partager les fichiers de réglages (« styles de partie ») que vous créez : ils
+sont à vous.
+
+
+3. CE QUE VOUS NE POUVEZ PAS FAIRE
+
+Redistribuer le logiciel vous-même. Pour le partager, renvoyez vers la page
+officielle de téléchargement — cela garantit que chacun obtient une version
+authentique et à jour.
+
+Le vendre, le louer, l'inclure dans une offre payante ou un lot, ou en tirer un
+revenu direct.
+
+Le modifier, le décompiler ou en produire une version dérivée, sauf dans les
+limites que la loi vous accorde de manière impérative.
+
+En retirer les mentions d'auteur, ou le présenter comme votre travail.
+
+
+4. AUCUNE ROM N'EST FOURNIE
+
+Le logiciel ne contient aucune donnée provenant d'un jeu, n'en distribue
+aucune, et n'indique pas où s'en procurer. Il travaille sur un fichier que vous
+fournissez.
+
+Il vous appartient de vérifier que vous détenez les droits nécessaires sur le
+jeu que vous modifiez, et que votre usage respecte la loi de votre pays. Le
+logiciel est destiné à la modification, pour votre usage privé, d'une copie que
+vous possédez légalement.
+
+
+5. AUCUNE GARANTIE
+
+Le logiciel est fourni « en l'état », sans garantie d'aucune sorte.
+
+Il n'ouvre jamais votre fichier d'origine en écriture, et il vérifie son
+travail avant d'écrire — mais aucun programme n'est infaillible. Faites une
+sauvegarde de vos fichiers avant de les utiliser.
+
+Dans la limite permise par la loi, l'auteur ne peut être tenu responsable
+d'aucun dommage résultant de l'utilisation du logiciel : perte de données,
+fichier ou sauvegarde inutilisable, dysfonctionnement d'une console ou d'un
+émulateur, ni d'aucun préjudice indirect.
+
+Rien dans cette clause ne limite une responsabilité qui ne peut légalement
+l'être, notamment en cas de faute lourde ou de dol.
+
+
+6. MARQUES
+
+Ce logiciel n'est ni affilié à, ni approuvé par, ni associé à Nintendo, Game
+Freak ou The Pokémon Company. « Pokémon » et les noms des jeux cités sont des
+marques de leurs titulaires respectifs, employés ici à seule fin de décrire la
+compatibilité du logiciel.
+
+
+7. FIN DE LA LICENCE
+
+Cette licence prend fin automatiquement si vous n'en respectez pas les
+conditions. Vous devez alors cesser d'utiliser le logiciel et le supprimer.
+
+
+8. DROIT APPLICABLE
+
+La présente licence est régie par le droit français.
+
+
+Auteur : em7max
+Contact : https://github.com/em7max/em7-rom-editor/issues
