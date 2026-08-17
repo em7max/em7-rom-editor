@@ -5,6 +5,9 @@ ROM `.3ds`, vous récupérez une ROM modifiée prête à lancer dans l'émulateu
 Aucune extraction, aucune reconstruction : pas besoin de pk3DS ni de
 HackingToolkit3DS.
 
+📥 **[Télécharger la dernière version](../../releases/latest)** · 💬 **[Serveur
+Discord](https://discord.gg/m85VtHVQAg)** · 🐛 **[Signaler un bug](../../issues)**
+
 <!-- Quand tu auras des captures d'écran, dépose-les dans un dossier
      « images » et décommente les trois lignes ci-dessous.
 ![L'onglet des Pokémon sauvages](images/sauvages.png)
@@ -101,7 +104,8 @@ Ce qui permet de reproduire à l'identique : **le jeu, les options cochées, la
 seed, et le journal affiché par l'application.** Avec ces quatre éléments, le
 problème se rejoue exactement.
 
-Ouvrez une [issue](../../issues) ici.
+Ouvrez une [issue](../../issues) ici, ou passez par le serveur Discord :
+https://discord.gg/m85VtHVQAg
 
 ## Aucune ROM n'est fournie
 
