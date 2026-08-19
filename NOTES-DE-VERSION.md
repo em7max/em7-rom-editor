@@ -1,4 +1,44 @@
-# Notes de version
+﻿# Notes de version
+
+## 1.1 — 18 août 2026
+
+**Identité de l'exécutable**
+
+Le programme se déclarait en 0.0.0.0 et sans éditeur. Il porte désormais une
+identité complète : version 1.1.0.0, produit « em7 ROM editor », éditeur
+« em7max ». Windows et les antivirus le reconnaissent mieux, et une version
+installée se distingue enfin d'une autre.
+
+**Interface**
+
+La colonne de gauche était une liste de onze sections à la file, et les trois
+préréglages, posés à sa suite, se retrouvaient coupés dès que la fenêtre était
+un peu courte. Les sections sont maintenant rangées en quatre groupes — ce que
+vous rencontrez, les règles du jeu, vos outils — et les préréglages restent
+visibles en bas, quoi qu'il arrive. Tout tient à l'écran sans défiler.
+
+Les ascenseurs sont enfin sombres : Windows en dessinait de blancs en pleine
+page. La liste des lieux de l'éditeur est redessinée aux couleurs du reste, au
+lieu du bleu vif du système. Les pages sont centrées quand la fenêtre est
+large, et le cadre de sélection jaune ne s'affiche plus qu'au clavier, là où il
+sert.
+
+**Fiabilité**
+
+- le module de chromaticité relit désormais chaque repère du `.code` avant
+  d'écrire quoi que ce soit, et refuse plutôt que d'écrire au hasard sur une
+  ROM déjà modifiée par un autre outil ;
+- documentation revue : le LisezMoi détaille les conséquences réelles de
+  chaque option plutôt que ses mécanismes internes.
+
+### Empreinte
+
+```
+em7-ROM-editor-1.1.zip
+SHA-256 : 68AF0B9C24BE762460CC5E78020221A30C25A49547C2466F8F634CC6481B01EF
+```
+
+---
 
 ## 1.0 — 17 août 2026
 
