@@ -37,6 +37,11 @@ Le taux de chromatiques, avec le seuil réellement appliqué dans le code du jeu
 
 ![Le réglage du taux de chromatiques](images/chromatiques.png)
 
+L'éditeur, pour retoucher une zone ou une équipe à la main sans rien
+randomiser :
+
+![L'éditeur : les rencontres d'une zone, modifiables une par une](images/editeur.png)
+
 Le carnet Nuzlocke, avec les zones réelles du jeu chargé et les huit règles :
 
 ![Le carnet Nuzlocke](images/nuzlocke.png)
