@@ -26,6 +26,7 @@ Discord](https://discord.gg/m85VtHVQAg)** · 🐛 **[Signaler un bug](../../issu
   d'efficacité, talents, évolutions, statistiques (permutation à total
   constant)
 - **Chromatiques** : taux réglable, de 1 sur 4096 jusqu'à 100 %
+- **Interface en français ou en anglais**, au choix dans l'onglet Options
 - **Nuzlocke** : carnet de bord — captures par zone, morts, huit règles
   hardcore décochables
 - **Difficulté** : six niveaux qui pilotent l'ensemble des réglages
@@ -45,6 +46,10 @@ randomiser :
 Le carnet Nuzlocke, avec les zones réelles du jeu chargé et les huit règles :
 
 ![Le carnet Nuzlocke](images/nuzlocke.png)
+
+L'onglet Options, où l'on choisit la langue de l'interface :
+
+![L'onglet Options et le choix de la langue](images/options.png)
 
 ## Comment ça marche
 
@@ -138,5 +143,5 @@ leurs titulaires respectifs.
 Nintendo 3DS Pokémon games (X, Y, Omega Ruby, Alpha Sapphire, Sun, Moon, Ultra
 Sun, Ultra Moon). It works directly on a decrypted `.3ds` file — no extraction,
 no rebuild — and recomputes every checksum, including the RomFS IVFC hash tree.
-The interface and documentation are in French only. **No ROMs are provided;
-bring your own.**
+The interface can be switched to English from the Options tab; the
+documentation is in French only. **No ROMs are provided; bring your own.**
