@@ -1,4 +1,44 @@
-# Notes de version
+﻿# Notes de version
+
+## 1.2 — 19 août 2026
+
+**Nouveau : l'interface existe en anglais**
+
+Un onglet **Options** apparaît en bas de la colonne de gauche. On y choisit la
+langue — Français ou English — et le choix est retenu d'une fois sur l'autre.
+
+La traduction couvre l'interface visible : les sections, les titres, les
+explications, les boutons et les infobulles. La page Options affiche
+honnêtement où elle en est, par exemple « English translation: 97% of the
+interface ». Ce qui n'est pas encore traduit reste en français, bien visible,
+plutôt que d'être escamoté.
+
+La langue choisie ne touche que l'application. **La langue du jeu produit
+reste celle de la ROM d'origine** : ouvrez une ROM anglaise pour obtenir un
+jeu anglais.
+
+**Colonne de gauche**
+
+Avec un douzième onglet, la liste des sections frôlait la coupure sur une
+fenêtre de 900 pixels de haut. Les groupes et le pied de colonne ont été
+resserrés de quelques pixels : tout tient désormais sans faire défiler.
+
+**Sous le capot**
+
+La traduction ne passe pas par un appel greffé sur chaque phrase — il y en a
+plus de deux cents. La fenêtre se construit en français, puis un parcours de
+l'arbre des contrôles remplace les textes, en mémorisant l'original au premier
+passage. Changer de langue ne reconstruit donc rien, et le retour au français
+est exact.
+
+### Empreinte
+
+```
+em7-ROM-editor-1.2.zip
+SHA-256 : 32EA413E1DA16C780F7ADD64ABCB8D38839A41BB9CAACC92D4DA51FB82F9DB65
+```
+
+---
 
 ## 1.1 — 18 août 2026
 
